@@ -4,16 +4,16 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "@aws-sdk/client-secrets-manager": "^3.425.0",
-      "axios": "^1.5.1",
-      "cheerio": "^1.0.0-rc.12"
+        "@aws-sdk/client-secrets-manager": "^3.425.0",
+        "axios": "^1.5.1",
+        "cheerio": "^1.0.0-rc.12"
     },
     "devDependencies": {
-      "eslint": "^8.50.0"
+        "eslint": "^8.50.0"
     }
-  }
+}
